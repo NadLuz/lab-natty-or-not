@@ -4,48 +4,27 @@
 
 > Woooow! Look at this 👀
 
-Olá pessoal, Venilton da DIO aqui! Inspirado na hype _"Natty or Not"_ do fisiculturismo, este Lab da DIO te convida a conhecer o mundo das IAs Generativas, explorando o potencial dessas tendências tecnológicas incríveis!
+Olá, rede! O Lab da DIO inspirado na hype _"Natty or Not"_ do fisiculturismo, me desafiou a criar algo usando a IA como auxiliadora. 
 
-## 🎯 Bora Pro Desafio!? Você Já Venceu 💪🤓
+## 🎯 Esse é o meu desafio 🤓
 
-### Objetivos
-
-1. **Explorar IAs Generativas**: Utilize essas tecnologias para criar conteúdos que sejam o mais realista possível. Seja criativo! Você pode produzir imagens, textos, áudios, vídeos ou combinações de tudo isso!
-1. **Potfólio de Projetos**:
-    1. Faça o "fork" deste repositório, criando uma cópia em seu GitHub pessoal;
-    2. Edite seu README com os detalhes do seu projeto, siga nosso [Template](#template) (é só copiar, colar e preencher);
-    3. Submeta o link do seu repositório na plataforma da DIO. Pronto, você acabou de fortalecer seu portfólio de projetos nos perfis do GitHub e DIO 🚀
-1. **Efeito de Rede**: Compartilhe seus resultados nas redes sociais com a hashtag **#LabDIONattyOrNot**. Não esqueça de nos marcar: [DIO](https://www.linkedin.com/school/dio-makethechange) e [falvojr](https://www.linkedin.com/in/falvojr).
-
-### Template
-
-```markdown
-# Título do Projeto Extremamente Aesthetic ;)
+# EBOOK Visite o Chile - Sua próxima aventura te espera
 
 ## 📒 Descrição
-Breve descrição do seu projeto
+Quer coisa melhor do que juntar tudo o que você gosta?! Por isso resolvi desenvolver um ebook sobre viagens, e é claro, incluindo a IA como auxiliadora no desenvolvimento. 
+Pesquisei exemplos de ebooks na internet e como seria a melhor forma de descrever o assunto. 
+Para os textos e tema obtive inspiração do famoso ChatGPT. E além disso me sugeriu os tipos de fotos que poderia adicionar no livro.
+As imagens utilizadas foram desenvolvidas através de IA também: o Leonardo AI. Inseri os prompts pedindo fotos dos locais mais famosos.
+E para a montagem do ebook utilizei o CANVA, ferramenta super intuitiva de edição de imagens.
 
 ## 🤖 Tecnologias Utilizadas
-Liste as IAs Generativas e outras ferramentas usadas
-
-## 🧐 Processo de Criação
-Descreva como você criou o conteúdo
+ * ChatGPT
+ * Leonardo AI
+ * Canva
 
 ## 🚀 Resultados
-Apresente os resultados do seu projeto
+Deixei em anexo o pdf gerado.
 
 ## 💭 Reflexão (Opcional)
-Comente sobre o desafio de criar algo 'natty' com IA.
-```
-
-### Exemplos e Insigths
-
-- [E-BOOK](/exemplos/E-BOOK.md)
-- [Podcast](/exemplos/PODCAST.md)
-- [Vídeo (Avatar Virtual)](/exemplos/VIDEO.md)
-
-## Links Interessantes
-
-[Base10: If You’re Not First, You’re Last: How AI Becomes Mission Critical](https://base10.vc/post/generative-ai-mission-critical/)
-
-![Base10's Trend Map Generative AI](https://github.com/digitalinnovationone/lab-natty-or-not/assets/730492/f4df26e8-f8f7-4419-8252-c69d73ea930c)
+Seria muito interessante se pudesse lançar uma série de ebooks falando sobre minhas viagens, com dicas para os viajantes. 
+Acredito que a IA vai me ajudar muito nisso!
